@@ -3,7 +3,7 @@ site_url: http://127.0.0.1:8000/dogs/
 site_description: API Documentation Example
 
 repo_url: https://github.com/lorieide/daas-tutorial.git
-repo_name: GitHub
+repo_name: daas-tutorial
 edit_uri: blob/master/docs
 
 theme:
