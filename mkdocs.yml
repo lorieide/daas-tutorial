@@ -1,8 +1,8 @@
 site_name: Doggies as a Service (DaaS) API Documentation 1.0
-site_url: 
+site_url: https://justice-docs-v1.uat.cdlcloud.co.uk/dogs/
 site_description: API Documentation Example
 
-repo_url: 
+repo_url: https://gitlab.com/cheshire-datasystems/insurance-retail/squad-8/documents-as-a-service/documents-as-a-service
 repo_name: GitLab
 edit_uri: blob/master/docs
 
